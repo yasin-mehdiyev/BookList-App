@@ -1,0 +1,29 @@
+.w-75 {
+    width: 75%!important;
+}
+
+.error-msg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: #fff;
+}
+
+.error-msg h3 {
+    font-size: 38px;
+    color: rgb(236, 54, 9);
+}
+
+.d-inline-grid {
+    display: inline-grid;
+}
+
+.custom-prop {
+    padding: 7px 8px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ced4da;
+    outline: none;
+}

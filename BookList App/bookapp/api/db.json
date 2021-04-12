@@ -1,0 +1,33 @@
+{
+  "books": [
+    {
+      "name": "EAST OF EDEN",
+      "categoryId": "3",
+      "author": "JOHN STEINBECK",
+      "price": "1233",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "title": "Romance",
+      "id": 1
+    },
+    {
+      "title": "Mystery",
+      "id": 2
+    },
+    {
+      "title": "Dystopian",
+      "id": 3
+    },
+    {
+      "title": "Westerns",
+      "id": 4
+    },
+    {
+      "title": "Fantasy",
+      "id": 5
+    }
+  ]
+}
